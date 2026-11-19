@@ -86,6 +86,9 @@ export default function Contact() {
             <a href="tel:+251976601177">
               +251 976 601 177 <Arrow diagonal />
             </a>
+            <a href="tel:+251930105595">
+              +251 976 601 177 <Arrow diagonal />
+            </a>
             <a href="mailto:bluewebdesigns0.1@gmail.com">
               bluewebdesigns0.1@gmail.com <Arrow diagonal />
             </a>
