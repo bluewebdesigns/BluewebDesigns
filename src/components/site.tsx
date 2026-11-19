@@ -11,9 +11,7 @@ export function Arrow({ diagonal = false }: { diagonal?: boolean }) {
 }
 
 export function Mark() {
-  return (
-    <img aria-hidden="true" alt="" className="brand-mark" src="/favicon.svg" />
-  )
+  return null
 }
 
 export function Logo({ dark = false }: { dark?: boolean }) {
