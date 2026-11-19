@@ -12,17 +12,7 @@ export function Arrow({ diagonal = false }: { diagonal?: boolean }) {
 
 export function Mark() {
   return (
-    <svg aria-hidden="true" className="brand-mark" viewBox="0 0 52 52">
-      {/* detached stem */}
-      <rect className="mark-stem" height="40" width="4.6" x="43.9" y="6" />
-      {/* upper bowl (blue) */}
-      <path className="mark-bowl-top" d="M36 6H22.5a10 10 0 0 0 0 20H36V6Z" />
-      {/* lower bowl (ink) */}
-      <path className="mark-bowl-bottom" d="M36 26H21.5a10 10 0 0 0 0 20H36V26Z" />
-      {/* dots */}
-      <circle className="mark-dot-a" cx="23.5" cy="16" r="3" />
-      <circle className="mark-dot-b" cx="22.5" cy="36" r="3" />
-    </svg>
+    <img aria-hidden="true" alt="" className="brand-mark" src="/favicon.svg" />
   )
 }
 
