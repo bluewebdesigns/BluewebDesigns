@@ -106,7 +106,7 @@ export default function Contact() {
               </div>
             </div>
             <div className="socials">
-              <a href="https://instagram.com/bluewebdesigns" rel="noreferrer" target="_blank">
+              <a href="https://instagram.com/blueweb.designs" rel="noreferrer" target="_blank">
                 Instagram ↗
               </a>
               <a href="https://t.me/Bluewebdesigns" rel="noreferrer" target="_blank">
